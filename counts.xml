@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<cards>
+<моно id="0">
+	<депозит Balance="15000" Currency="Гривня">
+		<Percantage>15</Percantage>
+		<Termin>22.07.2023</Termin>
+	</депозит>
+</моно>
+<приват id="1">
+	<депозит Balance="4000" Currency="Євро">
+		<Percantage>11</Percantage>
+		<Termin>22.05.2023</Termin>
+	</депозит>
+</приват>
+<райффайзен id="2">
+	<картковий Balance="4000" Currency="Долар" />
+</райффайзен>
+</cards>
